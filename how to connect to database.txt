@@ -1,0 +1,1 @@
+Connect-MDTDatabase -sqlServer mdt -database MDT
